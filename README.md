@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hello, my name is Vallesia Pierre Louis
+<br/>
+🔭 I have included past projects in this github
