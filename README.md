@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 👋 Hello, my name is Vallesia Pierre Louis
 <br/>
 🔭 I have included past projects in this github
+
+Check out my other reps
+<br/>
+ [Times Series](https://github.com/Vsia/time_series)
