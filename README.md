@@ -30,6 +30,7 @@ I have included my past projects in this GitHub repository. Check out some of my
 ---
 🌱 **I’m currently learning:**  
 - SQL
+- [Tableau](https://public.tableau.com/app/vallesia.pierre.louis/vizzes)
 
   ---
 ⚡ **Fun Facts About Me:**  
