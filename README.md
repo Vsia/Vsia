@@ -31,6 +31,7 @@ I have included my past projects in this GitHub repository. Check out some of my
 🌱 **I’m currently learning:**  
 - SQL
 - [Tableau](https://public.tableau.com/app/profile/vallesia.pierre.louis/vizzes)
+- [IMDB Movie Rating Dashboard with Tableau ](https://public.tableau.com/app/profile/vallesia.pierre.louis/viz/IMDBMovieRating_17385510143440/Dashboard1)
 
   ---
 ⚡ **Fun Facts About Me:**  
