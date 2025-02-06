@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 I have included my past projects in this GitHub repository. Check out some of my work:
 
 - [Movie Web Scraping](https://github.com/Vsia/scraping)  
-- [Time Series Analysis](https://github.com/Vsia/time_series)
 - [Unisex Names](https://github.com/Vsia/unisex_names)
 
 ---
