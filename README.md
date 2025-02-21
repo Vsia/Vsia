@@ -36,7 +36,8 @@ I have included my past projects in this GitHub repository. Check out some of my
   ---
 ⚡ **Fun Facts About Me:**  
 - I enjoy learning new things.
-- I love dancing. 
+- I love dancing.
+- I love writing, check out my short stories at [Vallesia.com](https://Vallesia.com) .
 - I am a cat lover. Meet my cat, Matcha Chai Latte!  
 ![Matcha Chai Latte](https://github.com/user-attachments/assets/53163e43-aa46-4c35-bd79-4443056372c1)
 
