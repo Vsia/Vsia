@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 🔭 **Check out my other Projects:**  
 I have included my past projects in this GitHub repository. Check out some of my work:
 
-- [Factors That Contributes Most User Satsfaction of Pharmaceutical Drugs](https://github.com/Vsia/Factors-for-drugs)
+- [Factors That Contributes Most User Satisfaction of Pharmaceutical Drugs](https://github.com/Vsia/Factors-for-drugs)
 - [Movie Web Scraping](https://github.com/Vsia/scraping)  
 - [Unisex Names](https://github.com/Vsia/unisex_names)
 
