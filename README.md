@@ -26,6 +26,10 @@ I have included my past projects in this GitHub repository. Check out some of my
 - [Factors That Contributes Most User Satisfaction of Pharmaceutical Drugs](https://github.com/Vsia/Factors-for-drugs)
 - [Movie Web Scraping](https://github.com/Vsia/scraping)  
 - [Unisex Names](https://github.com/Vsia/unisex_names)
+- [IMDB Movie Rating Dashboard with Tableau ](https://public.tableau.com/app/profile/vallesia.pierre.louis/viz/IMDBMovieRating_17385510143440/Dashboard1)
+- [ No Pressure Pages Book Club Dashboard on Google Sheets](https://docs.google.com/spreadsheets/d/1vcpQA83WNgC7_dU-Vx7dgILPvwFNPSZ6VKlEhWT6Nug/edit?gid=0#gid=0&fvid=342725995)
+
+
 
 ---
 🌱 **I’m currently learning:**  
@@ -36,6 +40,7 @@ I have included my past projects in this GitHub repository. Check out some of my
   ---
 ⚡ **Fun Facts About Me:**  
 - I enjoy learning new things.
+- I love to read. I started  a book club with friends in 2025, check out my dashboard on [Google Sheets](https://docs.google.com/spreadsheets/d/1vcpQA83WNgC7_dU-Vx7dgILPvwFNPSZ6VKlEhWT6Nug/edit?gid=0#gid=0&fvid=342725995).
 - I love dancing.
 - I love writing, check out my short stories at [Vallesia.com](http://Vallesia.com) .
 - I am a cat lover. Meet my cat, Matcha Chai Latte!  
