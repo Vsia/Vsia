@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 🔭 **Check out my other Projects:**  
 I have included my past projects in this GitHub repository. Check out some of my work:
 
-- [Factors That Contributes Most User Satisfaction of Pharmaceutical Drugs](https://github.com/Vsia/Factors-for-drugs)
-- [Microplastic intake through foods](https://github.com/Vsia/microplastic)
-- [Movie Web Scraping](https://github.com/Vsia/scraping)  
-- [Unisex Names](https://github.com/Vsia/unisex_names)
+- [Factors That Contributes Most User Satisfaction of Pharmaceutical Drugs with R Studio](https://github.com/Vsia/Factors-for-drugs)
+- [Microplastic intake through foods with SAS and PROC SQL(https://github.com/Vsia/microplastic)
+- [Movie Web Scraping with Python ](https://github.com/Vsia/scraping)  
+- [Unisex Names with Python](https://github.com/Vsia/unisex_names)
 - [IMDB Movie Rating Dashboard with Tableau ](https://public.tableau.com/app/profile/vallesia.pierre.louis/viz/IMDBMovieRating_17385510143440/Dashboard1)
 - [ No Pressure Pages Book Club Dashboard on Google Sheets](https://docs.google.com/spreadsheets/d/1vcpQA83WNgC7_dU-Vx7dgILPvwFNPSZ6VKlEhWT6Nug/edit?gid=0#gid=0&fvid=342725995)
 
