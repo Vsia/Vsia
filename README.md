@@ -1,69 +1,49 @@
-<!--
-**Vsia/Vsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I’m Vallesia Pierre Louis!
 
-Here are some ideas to get you started:
+🎓 I’m a Statistics graduate with a passion for data analysis, storytelling through visualization, and continuous learning. I enjoy transforming data into meaningful insights using tools like R, Python, SQL, SAS, Tableau, EXcel and Google Sheets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 👋 Hello, my name is Vallesia Pierre Louis!
-
-📫 **How to reach me:**  
-[Email me](mailto:Vallesia.pierrelouis@yahoo.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vallesia-pierre-louis)
+ **Let’s connect:**  
+[Email me](mailto:vallesia.pierrelouis@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/vallesia-pierre-louis)
 
 ---
 
-🔭 **Check out my other Projects:**  
-I have included my past projects in this GitHub repository. Check out some of my work:
+##  Featured Projects
 
-- [Factors That Contributes Most User Satisfaction of Pharmaceutical Drugs with R Studio](https://github.com/Vsia/Factors-for-drugs)
-- [Microplastic intake through foods with SAS and PROC SQL(https://github.com/Vsia/microplastic)
-- [Movie Web Scraping with Python ](https://github.com/Vsia/scraping)  
-- [Unisex Names with Python](https://github.com/Vsia/unisex_names)
-- [IMDB Movie Rating Dashboard with Tableau ](https://public.tableau.com/app/profile/vallesia.pierre.louis/viz/IMDBMovieRating_17385510143440/Dashboard1)
-- [ No Pressure Pages Book Club Dashboard on Google Sheets](https://docs.google.com/spreadsheets/d/1vcpQA83WNgC7_dU-Vx7dgILPvwFNPSZ6VKlEhWT6Nug/edit?gid=0#gid=0&fvid=342725995)
+Explore some of my hands-on projects in data analytics and visualization:
 
+-  [Pharmaceutical Drug Satisfaction (R)](https://github.com/Vsia/Factors-for-drugs)  
+  Analyzed key factors influencing user satisfaction using statistical modeling and visualizations in R.
 
+-  [Microplastic in Food (SAS/SQL)](https://github.com/Vsia/microplastic)  
+  Analyzed global microplastic intake across food categories using SAS Studio and PROC SQL.
 
----
-🌱 **I’m currently learning:**  
-- SQL
-- [Tableau](https://public.tableau.com/app/profile/vallesia.pierre.louis/vizzes)
-- [IMDB Movie Rating Dashboard with Tableau ](https://public.tableau.com/app/profile/vallesia.pierre.louis/viz/IMDBMovieRating_17385510143440/Dashboard1)
+-  [Movie Dataset Web Scraping (Python)](https://github.com/Vsia/scraping)  
+  Extracted and prepared movie data for visualization using Python and BeautifulSoup.
 
-  ---
-⚡ **Fun Facts About Me:**  
-- I enjoy learning new things.
-- I love to read. I started  a book club with friends in 2025, check out my dashboard on [Google Sheets](https://docs.google.com/spreadsheets/d/1vcpQA83WNgC7_dU-Vx7dgILPvwFNPSZ6VKlEhWT6Nug/edit?gid=0#gid=0&fvid=342725995).
-- I love dancing.
-- I love writing, check out my short stories at [Vallesia.com](http://Vallesia.com) .
-- I am a cat lover. Meet my cat, Matcha Chai Latte!  
-![Matcha Chai Latte](https://github.com/user-attachments/assets/53163e43-aa46-4c35-bd79-4443056372c1)
+-  [Unisex Names in Python](https://github.com/Vsia/unisex_names)  
+  A fun exploration of name trends using Python and data wrangling techniques.
+
+-  [IMDB Movie Dashboard (Tableau)](https://public.tableau.com/app/profile/vallesia.pierre.louis/viz/IMDBMovieRating_17385510143440/Dashboard1)  
+  Interactive dashboard displaying ratings, gross revenue, and top genres.
+
+-  [Book Club Tracker (Google Sheets)](https://docs.google.com/spreadsheets/d/1vcpQA83WNgC7_dU-Vx7dgILPvwFNPSZ6VKlEhWT6Nug/edit#gid=0)  
+  Visualized reading data for a book club I co-founded in 2025 with friends.
 
 ---
 
-
-<!--
-👯 **I’m looking to collaborate on:**  
-- **Statitsical Analysis :** I am interested in contributing to open source projects where I can learn from experienced developers and apply my skills.
-- **Data Science & Analysis:** I’d love to collaborate with others on data science projects, particularly in areas like machine learning, data visualization, or web scraping.
-- **Web Development:** I'm eager to work with teams on web development projects that focus on user experience and efficient design.
-- **Learning Opportunities:** I’m open to collaborating on any projects that can help me grow professionally and learn new technologies.
-
-🤔 **I’m looking for help with:**  
-[You can mention any projects or topics where you need assistance.]
-
-💬 **Ask me about:**  
-[Include topics you are comfortable discussing or sharing your knowledge about.]
+##  Currently Learning
+- Advanced SQL for analysis and automation  
+- Tableau storytelling techniques  
+- Project design for public data and policy impact
 
 ---
--->
 
-Thank you for visiting my profile! Feel free to reach out or check out my projects!
+## ✨✨✨ Fun Facts About Me
+- I love reading, dancing, and writing fiction. Check out my stories at [Vallesia.com](http://Vallesia.com).
+- I enjoy exploring trails. 
+- I'm a huge cat lover. Meet my cat, Matcha Chai Latte!  
+  ![Matcha Chai Latte](https://github.com/user-attachments/assets/53163e43-aa46-4c35-bd79-4443056372c1)
+
+---
+
+Thanks for stopping by! Feel free to browse my projects. 
