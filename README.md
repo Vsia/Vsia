@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 I have included my past projects in this GitHub repository. Check out some of my work:
 
 - [Factors That Contributes Most User Satisfaction of Pharmaceutical Drugs](https://github.com/Vsia/Factors-for-drugs)
+- [Microplastic intake through foods](https://github.com/Vsia/microplastic)
 - [Movie Web Scraping](https://github.com/Vsia/scraping)  
 - [Unisex Names](https://github.com/Vsia/unisex_names)
 - [IMDB Movie Rating Dashboard with Tableau ](https://public.tableau.com/app/profile/vallesia.pierre.louis/viz/IMDBMovieRating_17385510143440/Dashboard1)
