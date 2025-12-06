@@ -17,13 +17,16 @@ Explore some of my hands-on projects in data analytics and visualization:
 
 
 
-
+<a href="https://github.com/Vsia/Factors-for-drugs">
 <img width="500" alt="vallesia_pierre_louis_drugs_analysis_title" src="https://github.com/user-attachments/assets/bbd9b73d-25d6-4a94-902e-5d26d95915ce" />
+</a>
 
 -  [Pharmaceutical Drug Satisfaction (R)](https://github.com/Vsia/Factors-for-drugs)  
   Analyzed key factors influencing user satisfaction using statistical modeling and visualizations in R.
-
+  
+<a href="(https://github.com/Vsia/microplastic">
 <img width="500" height="1080" alt="Vallesia_pierre_louis_microplastic_1" src="https://github.com/user-attachments/assets/b8b2c84d-2aaf-4df0-a513-2586e6d0cb25" />
+</a>
 
 -  [Microplastic in Food (SAS/SQL)](https://github.com/Vsia/microplastic)  
   Analyzed global microplastic intake across food categories using SAS Studio and PROC SQL.
@@ -33,6 +36,7 @@ Explore some of my hands-on projects in data analytics and visualization:
 
 -  [Unisex Names in Python](https://github.com/Vsia/unisex_names)  
   A fun exploration of name trends using Python and data wrangling techniques.
+
 <a href ="https://public.tableau.com/app/profile/vallesia.pierre.louis/viz/IMDBMovieRating_17385510143440/Dashboard1">
 <img width="500" alt="vallesia_pierre_louis_imdb_movie_tableau_dashboard" src="https://github.com/user-attachments/assets/c3f6f82c-e978-40d3-9131-c390633709da" />
 </a>
