@@ -34,7 +34,7 @@ Explore some of my hands-on projects in data analytics and visualization:
 
 
   
-<a href="(https://github.com/Vsia/microplastic">
+<a href="https://github.com/Vsia/microplastic">
 <img width="500" height="1080" alt="Vallesia_pierre_louis_microplastic_1" src="https://github.com/user-attachments/assets/b8b2c84d-2aaf-4df0-a513-2586e6d0cb25" />
 </a>
 
