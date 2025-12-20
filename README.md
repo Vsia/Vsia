@@ -23,6 +23,16 @@ Explore some of my hands-on projects in data analytics and visualization:
 
 -  [Pharmaceutical Drug Satisfaction (R)](https://github.com/Vsia/Factors-for-drugs)  
   Analyzed key factors influencing user satisfaction using statistical modeling and visualizations in R.
+
+<a href="https://github.com/Vsia/Hospital-Analyst-Project">
+<img width="500" height="1080" alt="vallesia_pierre_louis_hospital_medication_project" src="https://github.com/user-attachments/assets/7ee135ba-c2a4-4540-a748-81a786ade23d" />
+</a>
+
+- [Hospital Pharmacy Inventory Project (SQL)](https://github.com/Vsia/Hospital-Analyst-Project)
+
+  This project uses an AI-generated dataset created with Microsoft Copilot. I used DB Browser for SQLite to design the database tables and write SQL queries, which I then refined, validated, and extended to simulate a healthcare medication management and prescribing system.
+
+
   
 <a href="(https://github.com/Vsia/microplastic">
 <img width="500" height="1080" alt="Vallesia_pierre_louis_microplastic_1" src="https://github.com/user-attachments/assets/b8b2c84d-2aaf-4df0-a513-2586e6d0cb25" />
@@ -30,6 +40,7 @@ Explore some of my hands-on projects in data analytics and visualization:
 
 -  [Microplastic in Food (SAS/SQL)](https://github.com/Vsia/microplastic)  
   Analyzed global microplastic intake across food categories using SAS Studio and PROC SQL.
+
 
 -  [Movie Dataset Web Scraping (Python)](https://github.com/Vsia/scraping)  
   Extracted and prepared movie data for visualization using Python and BeautifulSoup.
@@ -44,15 +55,18 @@ Explore some of my hands-on projects in data analytics and visualization:
 -  [IMDB Movie Dashboard (Tableau)](https://public.tableau.com/app/profile/vallesia.pierre.louis/viz/IMDBMovieRating_17385510143440/Dashboard1)  
   Interactive dashboard displaying ratings, gross revenue, and top genres.
 
+<a href="https://docs.google.com/spreadsheets/d/1vcpQA83WNgC7_dU-Vx7dgILPvwFNPSZ6VKlEhWT6Nug/edit#gid=0">
+<img width="500" height="1080" alt="vallesia_no_pressure_pages_book_club" src="https://github.com/user-attachments/assets/642fe7f7-6e21-4eae-9d3e-82cd5c2d05e4" />
+</a>
+
 -  [Book Club Tracker (Google Sheets)](https://docs.google.com/spreadsheets/d/1vcpQA83WNgC7_dU-Vx7dgILPvwFNPSZ6VKlEhWT6Nug/edit#gid=0)  
   Visualized reading data for a book club I co-founded in 2025 with friends.
 
 ---
 
 ##  Currently Learning
-- Advanced SQL for analysis and automation  
-- Tableau storytelling techniques  
-- Project design for public data and policy impact
+- Power BI storytelling techniques  
+- Project design for public data 
 
 ---
 
