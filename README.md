@@ -18,14 +18,14 @@ Explore some of my hands-on projects in data analytics and visualization:
 
 
 <a href="https://github.com/Vsia/Factors-for-drugs">
-<img width="500" height="1080" alt="vallesia_pierre_louis_drugs_analysis_title" src="https://github.com/user-attachments/assets/bbd9b73d-25d6-4a94-902e-5d26d95915ce" />
+<img width="500" alt="vallesia_pierre_louis_drugs_analysis_title" src="https://github.com/user-attachments/assets/bbd9b73d-25d6-4a94-902e-5d26d95915ce" />
 </a>
 
 -  [Pharmaceutical Drug Satisfaction (R)](https://github.com/Vsia/Factors-for-drugs)  
   Analyzed key factors influencing user satisfaction using statistical modeling and visualizations in R.
 
 <a href="https://github.com/Vsia/Hospital-Analyst-Project">
-<img width="500" height="1080" alt="vallesia_pierre_louis_hospital_medication_project" src="https://github.com/user-attachments/assets/7ee135ba-c2a4-4540-a748-81a786ade23d" />
+<img width="500"  alt="vallesia_pierre_louis_hospital_medication_project" src="https://github.com/user-attachments/assets/7ee135ba-c2a4-4540-a748-81a786ade23d" />
 </a>
 
 - [Hospital Pharmacy Inventory Project (SQL)](https://github.com/Vsia/Hospital-Analyst-Project)
@@ -35,7 +35,7 @@ Explore some of my hands-on projects in data analytics and visualization:
 
   
 <a href="https://github.com/Vsia/microplastic">
-<img width="500" height="1080" alt="Vallesia_pierre_louis_microplastic_1" src="https://github.com/user-attachments/assets/b8b2c84d-2aaf-4df0-a513-2586e6d0cb25" />
+<img width="500"  alt="Vallesia_pierre_louis_microplastic_1" src="https://github.com/user-attachments/assets/b8b2c84d-2aaf-4df0-a513-2586e6d0cb25" />
 </a>
 
 -  [Microplastic in Food (SAS/SQL)](https://github.com/Vsia/microplastic)  
@@ -49,14 +49,14 @@ Explore some of my hands-on projects in data analytics and visualization:
   A fun exploration of name trends using Python and data wrangling techniques.
 
 <a href ="https://public.tableau.com/app/profile/vallesia.pierre.louis/viz/IMDBMovieRating_17385510143440/Dashboard1">
-<img width="500" height="1080" alt="vallesia_pierre_louis_imdb_movie_tableau_dashboard" src="https://github.com/user-attachments/assets/c3f6f82c-e978-40d3-9131-c390633709da" />
+<img width="500"  alt="vallesia_pierre_louis_imdb_movie_tableau_dashboard" src="https://github.com/user-attachments/assets/c3f6f82c-e978-40d3-9131-c390633709da" />
 </a>
 
 -  [IMDB Movie Dashboard (Tableau)](https://public.tableau.com/app/profile/vallesia.pierre.louis/viz/IMDBMovieRating_17385510143440/Dashboard1)  
   Interactive dashboard displaying ratings, gross revenue, and top genres.
 
 <a href="https://docs.google.com/spreadsheets/d/1vcpQA83WNgC7_dU-Vx7dgILPvwFNPSZ6VKlEhWT6Nug/edit#gid=0">
-<img width="500" height="1080" alt="vallesia_no_pressure_pages_book_club" src="https://github.com/user-attachments/assets/642fe7f7-6e21-4eae-9d3e-82cd5c2d05e4" />
+<img width="500" alt="vallesia_no_pressure_pages_book_club" src="https://github.com/user-attachments/assets/642fe7f7-6e21-4eae-9d3e-82cd5c2d05e4" />
 </a>
 
 -  [Book Club Tracker (Google Sheets)](https://docs.google.com/spreadsheets/d/1vcpQA83WNgC7_dU-Vx7dgILPvwFNPSZ6VKlEhWT6Nug/edit#gid=0)  
