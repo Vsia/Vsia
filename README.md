@@ -18,7 +18,7 @@ Explore some of my hands-on projects in data analytics and visualization:
 
 
 <a href="https://github.com/Vsia/Factors-for-drugs">
-<img width="500" alt="vallesia_pierre_louis_drugs_analysis_title" src="https://github.com/user-attachments/assets/bbd9b73d-25d6-4a94-902e-5d26d95915ce" />
+<img width="500" height="1080" alt="vallesia_pierre_louis_drugs_analysis_title" src="https://github.com/user-attachments/assets/bbd9b73d-25d6-4a94-902e-5d26d95915ce" />
 </a>
 
 -  [Pharmaceutical Drug Satisfaction (R)](https://github.com/Vsia/Factors-for-drugs)  
@@ -49,7 +49,7 @@ Explore some of my hands-on projects in data analytics and visualization:
   A fun exploration of name trends using Python and data wrangling techniques.
 
 <a href ="https://public.tableau.com/app/profile/vallesia.pierre.louis/viz/IMDBMovieRating_17385510143440/Dashboard1">
-<img width="500" alt="vallesia_pierre_louis_imdb_movie_tableau_dashboard" src="https://github.com/user-attachments/assets/c3f6f82c-e978-40d3-9131-c390633709da" />
+<img width="500" height="1080" alt="vallesia_pierre_louis_imdb_movie_tableau_dashboard" src="https://github.com/user-attachments/assets/c3f6f82c-e978-40d3-9131-c390633709da" />
 </a>
 
 -  [IMDB Movie Dashboard (Tableau)](https://public.tableau.com/app/profile/vallesia.pierre.louis/viz/IMDBMovieRating_17385510143440/Dashboard1)  
